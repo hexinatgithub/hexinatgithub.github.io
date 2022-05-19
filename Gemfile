@@ -16,6 +16,7 @@ source "https://rubygems.org"
 gem "github-pages", group: :jekyll_plugins
 gem "minimal-mistakes-jekyll"
 gem "jekyll-remote-theme"
+gem "jekyll-archives"
 
 # The following plugins are automatically loaded by the theme-gem:
 #   gem "jekyll-paginate"
